@@ -1,0 +1,165 @@
+---
+lettera: N
+titolo: Neurofibromatosi di tipo 1
+fonte: https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/n/neurofibromatosi-di-tipo-1
+---
+
+**Neurofibromatosi di tipo 1**
+
+  
+
+  
+
+**Introduzione**
+
+Il termineneurofibromatosisi riferisce a un gruppo di malattie geneticherareincluse nel più esteso gruppo delle cosiddettesindromi neurocutanee, vale a dire quelle condizioni genetiche caratterizzate principalmente da un interessamento della cute e del sistema nervoso.
+
+A oggi le neurofibromatosi comprendono la Neurofibromatosi 1 (NF1), la Neurofibromatosi 2 (NF2) e le schwannomatosi (SCHWN1eSCHWN2). Leschwannomatosi 1 e 2, di recente individuazione, sono caratterizzate entrambe dalla presenza di tumori multipli della guaina esterna di rivestimento nei nervi periferici e/o più raramente dei nervi cranici (schwannomi) in assenza di altre manifestazioni cliniche. Invece, le neurofibromatosi 1 e 2 sono poco somiglianti sul piano clinico, nonostante siano indicate con lo stesso nome.
+
+Tra le varie forme di neurofibromatosi, la NF1 è la malattia più comune, con una prevalenza di circa 1 caso su 3.000. Il gene responsabile della NF1 è localizzato sul braccio lungo del cromosoma 17 e controlla la produzione di una proteina, laneurofibromina, il cui funzionamento anomalo è responsabile delle manifestazioni della malattia.
+
+Esiste una certa variabilità di presentazione della malattia: alcune persone ne sono colpite in modo lieve e hanno una buona qualità di vita, altre presentano la forma grave e possono sviluppare nel corso della loro vita vari tipi ditumorio complicazioni; ciò può anche accadere all'interno di un singolo gruppo familiare.
+
+La Neurofibromatosi 2 (NF2) è molto più rara, si stima 1 caso ogni 33.000. Il quadro clinico (manifestazioni e disturbi) è molto diverso rispetto alla NF1 (sono presenti, infatti, quasi esclusivamente tumori multipli del sistema nervoso centrale e/o periferico) ed è causata da mutazioni del gene NF2, localizzato sul cromosoma 22.
+
+In Italia le neurofibromatosi sono inserite nell'elenco delle malattie rare esenti dal costo del ticket (DPCM 12 gennaio 2017 - allegato 7) con il codice RBG010.
+
+Per avere informazioni sulla malattia, sulle modalità per ottenere l'esenzione, sui centri clinici per l'accertamento (diagnosi) e la cura della Rete nazionale malattie rare e sulle associazioni dei pazienti, è possibile rivolgersi al Telefono Verde Malattie Rare (TVMR) dell'Istituto Superiore di Sanità. Il numero 800.89.69.49 - gratuito su tutto il territorio nazionale - è attivo dal lunedì al venerdì dalle 9,00 alle 13,00.
+
+A livello europeo la Neurofibromatosi tipo 1 è studiata all’interno di ERN Genturis (European Reference Network for genetic Tumor Risk Syndromes) dedicato alle malattie metaboliche rare. Scopo del Network è armonizzare a attuare standard per le migliori pratiche cliniche e diagnostiche, migliorare l'equità delle prestazioni di assistenza negli Stati membri, ridurre i tempi di diagnosi, offrire formazione e istruzione specialistica, sviluppare servizi di sanità elettronica, sviluppare linee guida per l'assistenza, promuovere la ricerca traslazionale e clinica e condividere dati di alta qualità.
+
+**Sintomi**
+
+Clinicamente la Neurofibromatosi 1 (NF1) è caratterizzata da tre tipi di manifestazioni:
+
+segni clinici principali, sono i disturbi e i sintomi che sono presenti nella grande maggioranza degli individui malati e fanno parte dei criteri diagnostici insieme ad alcune tra le complicazioni tipiche della malattiasegni clinici minori, sono presenti solo in una certa percentuale d'individui malati e non rientrano ad oggi tra i criteri per accertare la malattiacomplicazioni, sono variabili e poco frequenti ma spesso gravi e invalidanti
+
+segni clinici principali, sono i disturbi e i sintomi che sono presenti nella grande maggioranza degli individui malati e fanno parte dei criteri diagnostici insieme ad alcune tra le complicazioni tipiche della malattia
+
+segni clinici minori, sono presenti solo in una certa percentuale d'individui malati e non rientrano ad oggi tra i criteri per accertare la malattia
+
+complicazioni, sono variabili e poco frequenti ma spesso gravi e invalidanti
+
+Segni clinici principali della Neurofibromatosi tipo 1
+
+I segni clinici principali della Neurofibromatosi tipo 1 (NF1) comprendono:
+
+macchie cutanee color caffè-latte, costituiscono il segno più comune, essendo presenti nel 95% delle persone con NF1. Le macchie si sviluppano quasi sempre alla nascita o si manifestano entro il primo anno d'età. Durante l'infanzia la maggior parte dei bambini con NF1 presenta almeno sei macchie color caffè latte di circa 5 millimetri di grandezza che, in genere, aumentano di dimensioni con il progredire dell'età. Il numero delle macchie non è associato alla gravità della malattia; inoltre, avere poche macchie di questo tipo, non vuol dire necessariamente sviluppare la malattia: esse, infatti, sono normalmente presenti in 1 su 10 persone sanelentigginosi, un altro segno comune è costituito dalla presenza di macchie caffellatte di piccole dimensioni (simili alle lentiggini) in determinate aree del corpo, come le ascelle, l'inguine e sotto il senoneurofibromi, i più comuni sono quelli cutanei, sono formazioni nodulari rilevate, compaiono intorno alla pubertà e sono quasi sempre presenti nelle persone adulte con NF1. Sono tumori benigni che si sviluppano a partire dalle cellule di rivestimento dei nervi (le cellule di Schwann) e alterano la struttura del nervo stesso sovvertendola dall'interno. Possono variare di dimensione, da rilievi leggeri sulla pelle fino a raggiungere la dimensione di un pisello o anche più (penduli) e presentare una colorazione violacea. Il loro numero può variare e possono ricoprire più parti del corpo. La quasi totalità dei noduli cutanei non provoca disturbi né dolore. I noduli, tuttavia, possono apparire anti estetici, causare irritazione della pelle per lo sfregamento sugli abiti o provocare prurito (perché liberano una sostanza, l'istamina, che dilata i piccoli vasi sanguigni). Una varietà di neurofibromi colpisce i nervi periferici più grandi (neurofibrominodulari o sottocutanei) e può provocare dolori o causare difficoltà nella percezione delle sensazioni o nel movimento (deficit sensitivi e/o motori). Nel caso in cui i neurofibromi siano localizzati lungo il nervo e le sue ramificazioni, sono definiti “plessiformi” e causano abitualmente dolore, debolezza, intorpidimento o effetti da compressione sulle parti vicine e/o sugli organi interni quali, ad esempio, la vescica o l'intestinonoduli di Lisch, piccoli accumuli di cellule che compaiono intorno alla pubertà nell'iride (ovvero la parte dell'occhio che circonda la pupilla e che determina il colore dell'occhio). Sono visibili dall'oculista con la lampada a fessura o, assai raramente, a occhio nudo (in persone con l'iride di colore chiaro). Si presentano come noduli rotondeggianti, rilevati, di colore giallo-marrone. Non causano alcun disturbo alla vista, compaiono abitualmente intorno agli 8 anni d'età e sono presenti in una grandissima proporzione di adulti con NF1
+
+macchie cutanee color caffè-latte, costituiscono il segno più comune, essendo presenti nel 95% delle persone con NF1. Le macchie si sviluppano quasi sempre alla nascita o si manifestano entro il primo anno d'età. Durante l'infanzia la maggior parte dei bambini con NF1 presenta almeno sei macchie color caffè latte di circa 5 millimetri di grandezza che, in genere, aumentano di dimensioni con il progredire dell'età. Il numero delle macchie non è associato alla gravità della malattia; inoltre, avere poche macchie di questo tipo, non vuol dire necessariamente sviluppare la malattia: esse, infatti, sono normalmente presenti in 1 su 10 persone sane
+
+lentigginosi, un altro segno comune è costituito dalla presenza di macchie caffellatte di piccole dimensioni (simili alle lentiggini) in determinate aree del corpo, come le ascelle, l'inguine e sotto il seno
+
+neurofibromi, i più comuni sono quelli cutanei, sono formazioni nodulari rilevate, compaiono intorno alla pubertà e sono quasi sempre presenti nelle persone adulte con NF1. Sono tumori benigni che si sviluppano a partire dalle cellule di rivestimento dei nervi (le cellule di Schwann) e alterano la struttura del nervo stesso sovvertendola dall'interno. Possono variare di dimensione, da rilievi leggeri sulla pelle fino a raggiungere la dimensione di un pisello o anche più (penduli) e presentare una colorazione violacea. Il loro numero può variare e possono ricoprire più parti del corpo. La quasi totalità dei noduli cutanei non provoca disturbi né dolore. I noduli, tuttavia, possono apparire anti estetici, causare irritazione della pelle per lo sfregamento sugli abiti o provocare prurito (perché liberano una sostanza, l'istamina, che dilata i piccoli vasi sanguigni). Una varietà di neurofibromi colpisce i nervi periferici più grandi (neurofibrominodulari o sottocutanei) e può provocare dolori o causare difficoltà nella percezione delle sensazioni o nel movimento (deficit sensitivi e/o motori). Nel caso in cui i neurofibromi siano localizzati lungo il nervo e le sue ramificazioni, sono definiti “plessiformi” e causano abitualmente dolore, debolezza, intorpidimento o effetti da compressione sulle parti vicine e/o sugli organi interni quali, ad esempio, la vescica o l'intestino
+
+noduli di Lisch, piccoli accumuli di cellule che compaiono intorno alla pubertà nell'iride (ovvero la parte dell'occhio che circonda la pupilla e che determina il colore dell'occhio). Sono visibili dall'oculista con la lampada a fessura o, assai raramente, a occhio nudo (in persone con l'iride di colore chiaro). Si presentano come noduli rotondeggianti, rilevati, di colore giallo-marrone. Non causano alcun disturbo alla vista, compaiono abitualmente intorno agli 8 anni d'età e sono presenti in una grandissima proporzione di adulti con NF1
+
+Segni clinici minori
+
+Isegni clinici minorinon fanno parte, ad oggi, dei criteri per accertare (diagnosticare) la malattia ma quando presenti possono contribuire a far sospettare la NF1. Tra questi figurano:
+
+macrocefalia, in altre parole la circonferenza cranica superiore alla mediastatura leggermente più bassa della mediamalformazioni toraciche(ad esempio, petto carenato/sporgente o incavato)ipertelorismo(aumento della distanza tra i due occhi)piccoliangiomidella pelleprevalentemente localizzati nel tronco o nella coscia
+
+macrocefalia, in altre parole la circonferenza cranica superiore alla media
+
+statura leggermente più bassa della media
+
+malformazioni toraciche(ad esempio, petto carenato/sporgente o incavato)
+
+ipertelorismo(aumento della distanza tra i due occhi)
+
+piccoliangiomidella pelleprevalentemente localizzati nel tronco o nella coscia
+
+Complicazioni
+
+Le complicazioni della malattia sono presenti in una minoranza di persone malate; si manifestano soprattutto entro i primi anni di vita e, comunque, in determinati periodi della vita.
+
+Tra le prime complicazioni a essere visibili vi sono:
+
+manifestazioni ortopedicheche riguardano soprattutto la colonna vertebrale (scoliosi da anomalie di crescita e posizione di alcune vertebre; 10-20% dei bambini)displasiacon pseudoartrosi delle ossa lunghe, che riguarda circa il 2% dei bambini con NF1. A seguito di una crescita anomala dell'osso, si formano piccole aree ossee più sottili, più incurvate e più deboli strutturalmente che possono andare incontro più facilmente a fratture: queste ultime a seguito di un anomalo processo di riparazione ossea non formano un callo osseo normale. Di conseguenza, non si verifica l'unione dei frammenti ossei e si manifestano alterazioni della lunghezza e della forma dell'ossomancanza divitamina D, alcune persone con NF1 hanno valori molto bassi di vitamina D, necessaria al tessuto osseo per formare bene la sua struttura. Essa viene prodotta dal corpo quando è esposto alla luce del sole e si trova in alcuni alimenti come il latte, lo yogurt e il pesce grasso
+
+manifestazioni ortopedicheche riguardano soprattutto la colonna vertebrale (scoliosi da anomalie di crescita e posizione di alcune vertebre; 10-20% dei bambini)
+
+displasiacon pseudoartrosi delle ossa lunghe, che riguarda circa il 2% dei bambini con NF1. A seguito di una crescita anomala dell'osso, si formano piccole aree ossee più sottili, più incurvate e più deboli strutturalmente che possono andare incontro più facilmente a fratture: queste ultime a seguito di un anomalo processo di riparazione ossea non formano un callo osseo normale. Di conseguenza, non si verifica l'unione dei frammenti ossei e si manifestano alterazioni della lunghezza e della forma dell'osso
+
+mancanza divitamina D, alcune persone con NF1 hanno valori molto bassi di vitamina D, necessaria al tessuto osseo per formare bene la sua struttura. Essa viene prodotta dal corpo quando è esposto alla luce del sole e si trova in alcuni alimenti come il latte, lo yogurt e il pesce grasso
+
+Altre complicazioni includono:
+
+disturbi dell'apprendimento e del comportamento, alcuni bambini con la NF1 sviluppano problemi di apprendimento e di comportamento causati dall'alterazione della proteina prodotta dal gene della NF1 (la neurofibromina). Essa è di vitale importanza in alcuni processi che si svolgono all'interno delle cellule del sistema nervoso centrale deputate all'apprendimento, alla memoria ed al comportamento. Circa il 60% dei bambini (e poi degli adulti) ha una difficoltà d'apprendimento di grado variabile. I bambini con NF1 e difficoltà ad apprendere, possono avere un quoziente d'intelligenza (QI) normale (valore medio 100) o poco al di sotto della norma. I disturbi dell'apprendimento sono facilmente evidenziabili, specie quando il bambino inizia ad andare a scuola o a frequentare i programmi pre-scolari, e in parte trattabili con specifiche terapie scolastiche di supporto. Possono comportare un rendimento scolastico più basso, con prestazioni più scarse nella lettura e nella compitazione (ovvero l'atto di pronunciare una parola lentamente distinguendo e pronunciando separatamente singole lettere o sillabe) rispetto alla matematica. Si possono avere anche disturbi nell'articolazione della parola (fonazione) specie nella pronuncia dei suoni nasali. Nel 40% circa dei casi, sono presenti difficoltà nella coordinazione dei movimenti. Per quanto riguarda il comportamento, circa la metà di tutti i bambini con NF1 presenta anche un deficit dell’attenzione, spesso isolato e solo a volte con iperattività, che comporta problemi di durata dell'attenzione, della concentrazione e del controllo degli impulsi spesso associato a disturbi della memoria a breve termineneurofibroma plessiforme,è la complicazione più frequente dopo i disturbi d'apprendimento. È caratterizzato dalla comparsa di neurofibromi multipli di consistenza molle e di dimensioni variabili. La cute sovrastante appare spesso più scura e più spessa. Abitualmente le lesioni più gravi, molto estese e sfiguranti, compaiono entro i primi due anni di vita e sono localizzate principalmente al collo e, a volte, al volto oppure possono svilupparsi all'interno dell'addome o della zona pelvica (basso ventre).In età successive possono interessare altre sedi causando danni estetici e funzionali minori. Il neurofibroma plessiforme è una lesione estesa che colpisce un ampio tratto di nervo deformandolo a tal punto da formare il tipico aspetto vermiforme con numerosi noduli detti acorona di rosarioall'interno di una massa tortuosa. Alcune volte, i neurofibromi plessiformi possono trasformarsi in tumori maligni delle guaine nervose dei nervi periferici
+
+disturbi dell'apprendimento e del comportamento, alcuni bambini con la NF1 sviluppano problemi di apprendimento e di comportamento causati dall'alterazione della proteina prodotta dal gene della NF1 (la neurofibromina). Essa è di vitale importanza in alcuni processi che si svolgono all'interno delle cellule del sistema nervoso centrale deputate all'apprendimento, alla memoria ed al comportamento. Circa il 60% dei bambini (e poi degli adulti) ha una difficoltà d'apprendimento di grado variabile. I bambini con NF1 e difficoltà ad apprendere, possono avere un quoziente d'intelligenza (QI) normale (valore medio 100) o poco al di sotto della norma. I disturbi dell'apprendimento sono facilmente evidenziabili, specie quando il bambino inizia ad andare a scuola o a frequentare i programmi pre-scolari, e in parte trattabili con specifiche terapie scolastiche di supporto. Possono comportare un rendimento scolastico più basso, con prestazioni più scarse nella lettura e nella compitazione (ovvero l'atto di pronunciare una parola lentamente distinguendo e pronunciando separatamente singole lettere o sillabe) rispetto alla matematica. Si possono avere anche disturbi nell'articolazione della parola (fonazione) specie nella pronuncia dei suoni nasali. Nel 40% circa dei casi, sono presenti difficoltà nella coordinazione dei movimenti. Per quanto riguarda il comportamento, circa la metà di tutti i bambini con NF1 presenta anche un deficit dell’attenzione, spesso isolato e solo a volte con iperattività, che comporta problemi di durata dell'attenzione, della concentrazione e del controllo degli impulsi spesso associato a disturbi della memoria a breve termine
+
+neurofibroma plessiforme,è la complicazione più frequente dopo i disturbi d'apprendimento. È caratterizzato dalla comparsa di neurofibromi multipli di consistenza molle e di dimensioni variabili. La cute sovrastante appare spesso più scura e più spessa. Abitualmente le lesioni più gravi, molto estese e sfiguranti, compaiono entro i primi due anni di vita e sono localizzate principalmente al collo e, a volte, al volto oppure possono svilupparsi all'interno dell'addome o della zona pelvica (basso ventre).In età successive possono interessare altre sedi causando danni estetici e funzionali minori. Il neurofibroma plessiforme è una lesione estesa che colpisce un ampio tratto di nervo deformandolo a tal punto da formare il tipico aspetto vermiforme con numerosi noduli detti acorona di rosarioall'interno di una massa tortuosa. Alcune volte, i neurofibromi plessiformi possono trasformarsi in tumori maligni delle guaine nervose dei nervi periferici
+
+Altri organi ed apparati possono essere interessati dalle complicazioni della NF1:
+
+sistema nervoso, alcune persone con NF1 soffrono dimal di testa, sebbene non sia un disturbo specifico per la NF1. È molto importante escludere che il mal di testa rappresenti un segno di tumore del sistema nervosoconvulsioni,assai raramente sono legate alla NF1. Hanno una frequenza di circa 3-4% (vale a dire un po’ più elevata rispetto alla popolazione generale). Il decorso e la risposta alla terapia sono simili a quelli delle convulsioni nella popolazione generaletumori al cervello, sono più frequentementegliomi.Possono comparire più spesso nelle vie ottiche, nel tronco cerebrale e nel cervelletto. Circa il 5% delle persone con NF1 sviluppa un tumore, che può anche non causare disturbi (asintomatico). Alcuni tumori, in relazione alla parte del sistema nervoso in cui si sviluppano, possono causare dei sintomi come cambiamento della personalità, debolezza a una sola parte del corpo e difficoltà di equilibrio e di coordinazionetumori delle vie ottiche, circa il 15% dei bambini con NF1 sviluppa un tumore del nervo ottico. Il nervo ottico è localizzato sul retro di ciascun occhio e ha la funzione di inviare le informazioni visive dall'occhio al cervello (lobi occipitali). Questo tipo di tumore è dettoglioma ottico(OPG). Maggiormente a rischio per questo tipo di tumore sono i bambini in età scolare. Molti OPG sono piccoli tumori che crescono lentamente e non causano disturbi (sintomi) apprezzabili. Altri OPG sono a crescita veloce e possono dare problemi alla vista inclusi: riduzione della visione, alterata percezione dei colori, restringimento del campo visivo,strabismoo sporgenza di un occhio rispetto all'altro. I bambini più piccoli potrebbero essere incapaci di riferire i problemi alla vista, quindi i genitori dovranno fare attenzione a piccoli segnali indiretti. Il miglior modo per verificare l'eventuale comparsa di unglioma ottico, è di sottoporre il bambino a visita oculistica almeno una volta l'annogliomi del tronco cerebraleecerebellari, presentano maggiori difficoltà per un eventuale intervento neurochirurgico di rimozione ma, nella quasi totalità dei casi, non causano disturbi e non evolvono nel tempo. Tuttavia, vanno monitorati in maniera molto continuatumore maligno delle guaine dei nervi periferici (MPNST), è uno dei problemi più seri che si possa verificare nelle persone con NF1. È stimata una probabilità del 5-10% che tale complicazione possa manifestarsi nel corso della vita di una persona con NF1; nella maggior parte dei casi ciò può accadere tra i 20 e i 30 anni d'età, più raramente in altre fasce d'età (inclusa l'età pediatrica o quella più adulta). Il tumore maligno si sviluppa, abitualmente, a partire da un neurofibroma plessiforme preesistente, ma può anche manifestarsi sin dall'inizio come una lesione maligna.I disturbi (sintomi) e/o i segni del MPNST che devono destare l'attenzione delle persone con NF1, o dei familiari, e indurre a chiedere la consulenza dello specialista, includono:cambiamento dell'aspetto e della consistenzadel neurofibroma, da soffice a durocrescita improvvisa in un preesistente neurofibromadolore persistente, che dura da diversi giorni/settimane e che compare anche durante la nottedisturbi (sintomi) improvvisi e non presenti in precedenza, debolezza, intorbidimento, formicolio di braccia e gambeperdita del controllo urinario e intestinaledifficoltà a respirare e a deglutireipertensione arteriosa, è presente nel 6% delle persone con NF1, più frequentemente è causata da stenosi dell'arteria renale (ossia da un restringimento progressivo dell'arteria che irrora il rene con conseguente sviluppo, da parte del rene, di sostanze che aumentano il flusso ematico verso il rene stesso); da un tumore della ghiandola surrenale (feocromocitoma), vale a dire di quella ghiandola endocrina che è posta sopra il rene e produce normalmente sostanze che aumentano la pressione del sangue; da grave restringimento dell'arteria aorta. Raramente, sono stati riscontrati dilatazioni (aneurismi) o compressioni esterne (tumori) dell'arteria renale. Se la pressione più elevata non viene trattata farmacologicamente, potrebbe causare serie complicazioni nelle persone che ne soffrono. Per questa ragione, ai bambini e agli adulti con NF1, è raccomandato di eseguire controlli regolari della pressione sanguignaNF1 e gravidanza, la maggior parte delle donne con NF1 hannogravidanzenormali. In alcuni casi, il numero dei neurofibromi potrebbe aumentare a causa dei cambiamenti ormonali. È necessario, quindi, essere seguite da specialisti che conoscano bene la malattia, oppure contattare il medico specialista per la NF1 presso cui si è in cura
+
+sistema nervoso, alcune persone con NF1 soffrono dimal di testa, sebbene non sia un disturbo specifico per la NF1. È molto importante escludere che il mal di testa rappresenti un segno di tumore del sistema nervoso
+
+convulsioni,assai raramente sono legate alla NF1. Hanno una frequenza di circa 3-4% (vale a dire un po’ più elevata rispetto alla popolazione generale). Il decorso e la risposta alla terapia sono simili a quelli delle convulsioni nella popolazione generale
+
+tumori al cervello, sono più frequentementegliomi.Possono comparire più spesso nelle vie ottiche, nel tronco cerebrale e nel cervelletto. Circa il 5% delle persone con NF1 sviluppa un tumore, che può anche non causare disturbi (asintomatico). Alcuni tumori, in relazione alla parte del sistema nervoso in cui si sviluppano, possono causare dei sintomi come cambiamento della personalità, debolezza a una sola parte del corpo e difficoltà di equilibrio e di coordinazione
+
+tumori delle vie ottiche, circa il 15% dei bambini con NF1 sviluppa un tumore del nervo ottico. Il nervo ottico è localizzato sul retro di ciascun occhio e ha la funzione di inviare le informazioni visive dall'occhio al cervello (lobi occipitali). Questo tipo di tumore è dettoglioma ottico(OPG). Maggiormente a rischio per questo tipo di tumore sono i bambini in età scolare. Molti OPG sono piccoli tumori che crescono lentamente e non causano disturbi (sintomi) apprezzabili. Altri OPG sono a crescita veloce e possono dare problemi alla vista inclusi: riduzione della visione, alterata percezione dei colori, restringimento del campo visivo,strabismoo sporgenza di un occhio rispetto all'altro. I bambini più piccoli potrebbero essere incapaci di riferire i problemi alla vista, quindi i genitori dovranno fare attenzione a piccoli segnali indiretti. Il miglior modo per verificare l'eventuale comparsa di unglioma ottico, è di sottoporre il bambino a visita oculistica almeno una volta l'anno
+
+gliomi del tronco cerebraleecerebellari, presentano maggiori difficoltà per un eventuale intervento neurochirurgico di rimozione ma, nella quasi totalità dei casi, non causano disturbi e non evolvono nel tempo. Tuttavia, vanno monitorati in maniera molto continua
+
+tumore maligno delle guaine dei nervi periferici (MPNST), è uno dei problemi più seri che si possa verificare nelle persone con NF1. È stimata una probabilità del 5-10% che tale complicazione possa manifestarsi nel corso della vita di una persona con NF1; nella maggior parte dei casi ciò può accadere tra i 20 e i 30 anni d'età, più raramente in altre fasce d'età (inclusa l'età pediatrica o quella più adulta). Il tumore maligno si sviluppa, abitualmente, a partire da un neurofibroma plessiforme preesistente, ma può anche manifestarsi sin dall'inizio come una lesione maligna.I disturbi (sintomi) e/o i segni del MPNST che devono destare l'attenzione delle persone con NF1, o dei familiari, e indurre a chiedere la consulenza dello specialista, includono:cambiamento dell'aspetto e della consistenzadel neurofibroma, da soffice a durocrescita improvvisa in un preesistente neurofibromadolore persistente, che dura da diversi giorni/settimane e che compare anche durante la nottedisturbi (sintomi) improvvisi e non presenti in precedenza, debolezza, intorbidimento, formicolio di braccia e gambeperdita del controllo urinario e intestinaledifficoltà a respirare e a deglutire
+
+cambiamento dell'aspetto e della consistenzadel neurofibroma, da soffice a durocrescita improvvisa in un preesistente neurofibromadolore persistente, che dura da diversi giorni/settimane e che compare anche durante la nottedisturbi (sintomi) improvvisi e non presenti in precedenza, debolezza, intorbidimento, formicolio di braccia e gambeperdita del controllo urinario e intestinaledifficoltà a respirare e a deglutire
+
+cambiamento dell'aspetto e della consistenzadel neurofibroma, da soffice a duro
+
+crescita improvvisa in un preesistente neurofibroma
+
+dolore persistente, che dura da diversi giorni/settimane e che compare anche durante la notte
+
+disturbi (sintomi) improvvisi e non presenti in precedenza, debolezza, intorbidimento, formicolio di braccia e gambe
+
+perdita del controllo urinario e intestinale
+
+difficoltà a respirare e a deglutire
+
+ipertensione arteriosa, è presente nel 6% delle persone con NF1, più frequentemente è causata da stenosi dell'arteria renale (ossia da un restringimento progressivo dell'arteria che irrora il rene con conseguente sviluppo, da parte del rene, di sostanze che aumentano il flusso ematico verso il rene stesso); da un tumore della ghiandola surrenale (feocromocitoma), vale a dire di quella ghiandola endocrina che è posta sopra il rene e produce normalmente sostanze che aumentano la pressione del sangue; da grave restringimento dell'arteria aorta. Raramente, sono stati riscontrati dilatazioni (aneurismi) o compressioni esterne (tumori) dell'arteria renale. Se la pressione più elevata non viene trattata farmacologicamente, potrebbe causare serie complicazioni nelle persone che ne soffrono. Per questa ragione, ai bambini e agli adulti con NF1, è raccomandato di eseguire controlli regolari della pressione sanguigna
+
+NF1 e gravidanza, la maggior parte delle donne con NF1 hannogravidanzenormali. In alcuni casi, il numero dei neurofibromi potrebbe aumentare a causa dei cambiamenti ormonali. È necessario, quindi, essere seguite da specialisti che conoscano bene la malattia, oppure contattare il medico specialista per la NF1 presso cui si è in cura
+
+**Cause**
+
+La Neurofibromatosi di tipo 1 (NF1) è causata da mutazioni del gene chiamato NF1. I geni contengono le informazioni che determinano tutte le caratteristiche dell'essere umano. Unamutazionegenetica è un cambiamento permanente nella sequenza diDNAche costituisce il gene stesso. Il gene NF1 è responsabile della produzione di unaproteina, chiamataneurofibromina, che in condizioni normali controlla, inibendola, la crescita delle cellule ed è importante in diverse vie metaboliche intracellulari di svariati tessuti (ad esempio, tessuto osseo, tessuto nervoso). Il difetto del gene NF1 causa un cattivo funzionamento della neurofibromina che non essendo più in grado di controllare efficacemente la crescita di alcuni tipi di cellule, ne provoca una crescita anomala (ad esempio, tumori benigni,displasiadei tessuti) oppure, non riuscendo più a intervenire normalmente nei circuiti intracellulari, ne altera la funzione (ad esempio, difficoltà d'apprendimento) e causa le manifestazioni della malattia.
+
+La NF1 segue un modello di ereditarietà dettoautosomico dominante, in altre parole è sufficiente che uno dei due genitori possieda un solo gene difettoso (ossia una sola copia difettosa del gene presente in uno dei due cromosomi 17 normalmente presenti nelle cellule umane) per trasmettere ai figli la malattia. In circa la metà dei casi di NF1, il gene mutato è trasmesso da un genitore al figlio. Maschi e femmine hanno la stessa probabilità di sviluppare la malattia. Tuttavia, la gravità non è sempre ereditaria. Per esempio, un bambino può avere una forma lieve di NF1, anche se ha ereditato la malattia da uno dei genitori che ha disturbi (sintomi) più gravi.
+
+Mutazione spontanea
+
+Nell'altra metà dei casi di NF1, la mutazione del gene responsabile della malattia non è ereditata da alcuno dei genitori ma si forma spontaneamente, negli spermatociti o negli ovuli, appena prima del concepimento (mutazione sporadica). Non è chiaro quale sia la causa o se ci siano fattori che fanno aumentare il rischio della mutazione. Se il bambino ha sviluppato la NF1 a seguito di una mutazione spontanea, è altamente improbabile che ulteriori figli della coppia sviluppino la malattia. Una persona con NF1 sporadica, può trasmettere la malattia ai propri figli con la stessa probabilità di chi ha la forma ereditaria.
+
+**Diagnosi**
+
+La Neurofibromatosi di tipo 1 (NF1) di solito è accertata (diagnosticata) sulla base di segni e disturbi (sintomi) abbastanza tipici. Per diagnosticarla è utile fare riferimento alla presenza di due o più dei seguenti segni/sintomi:
+
+sei o più macchie caffè-latte, più grandi di 5 millimetri nei bambini o di 15 millimetri negli adultilentiggini nell'area delle ascelle o intorno all'inguinedue o più neurofibromi(noduli sopra o sotto pelle), o unneurofibroma plessiforme(ovvero che si sviluppa lungo le ramificazioni dei nervi)un tumore del nervo ottico(glioma ottico), che può causare disturbi visividue o più piccole macchie marroninell'iride(la parte colorata dell'occhio), conosciute come noduli di Lischanomalie ossee, come incurvamento della parte inferiore della gambafamiliari malati di NF1(storia familiare)
+
+sei o più macchie caffè-latte, più grandi di 5 millimetri nei bambini o di 15 millimetri negli adulti
+
+lentiggini nell'area delle ascelle o intorno all'inguine
+
+due o più neurofibromi(noduli sopra o sotto pelle), o unneurofibroma plessiforme(ovvero che si sviluppa lungo le ramificazioni dei nervi)
+
+un tumore del nervo ottico(glioma ottico), che può causare disturbi visivi
+
+due o più piccole macchie marroninell'iride(la parte colorata dell'occhio), conosciute come noduli di Lisch
+
+anomalie ossee, come incurvamento della parte inferiore della gamba
+
+familiari malati di NF1(storia familiare)
+
+Di solito, è più semplice accertare (diagnosticare) la NF1 nell'adulto e nei bambini più grandi ed è più difficile scoprirla nel bambino piccolo, per l'assenza di segni clinici che compaiono in età successive.
+
+Ulteriori accertamenti
+
+Per controllare nel tempo (monitorare) la malattia è consigliabile eseguire, con frequenza da definire con lo specialista di riferimento, le seguenti indagini:
+
+misurazione della pressione sanguignaecografiadegli organi addominali-pelvicielettrocardiogramma (ECG) eecocardiogrammavisita oculisticaelettroencefalogramma(EEG), indicato in caso di valutazione di eventi convulsivirisonanza magnetica, permette di ottenere immagini dettagliate dei tessuti molli del co

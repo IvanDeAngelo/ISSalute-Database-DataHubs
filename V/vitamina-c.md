@@ -1,0 +1,191 @@
+---
+lettera: V
+titolo: Vitamina C
+fonte: https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/v/vitamina-c
+---
+
+**Vitamina C**
+
+  
+
+  
+
+**Introduzione**
+
+La vitamina C, nota anche come acido ascorbico, è una vitamina idrosolubile, vale a dire che si scioglie in acqua, con proprietà antiossidanti: aiuta a mantenere sane le cellule proteggendole dagli effetti dei radicali liberi prodotti durante la normale attività cellulare (metabolismo).
+
+La vitamina C ha diverse, importanti, funzioni:
+
+aiuta a mantenere la normale funzionalità dei vasi sanguigniconsente di mantenere la salute di denti e gengivefacilita l’assorbimento delferrodi origine vegetalepartecipa alla formazione, crescita e riparazione del tessuto osseo e connettivoaiuta a mantenere sana la pelleaiuta la cicatrizzazione delle ferite
+
+aiuta a mantenere la normale funzionalità dei vasi sanguigni
+
+consente di mantenere la salute di denti e gengive
+
+facilita l’assorbimento delferrodi origine vegetale
+
+partecipa alla formazione, crescita e riparazione del tessuto osseo e connettivo
+
+aiuta a mantenere sana la pelle
+
+aiuta la cicatrizzazione delle ferite
+
+Poiché la vitamina C non viene prodotta dall’organismo e non può essere immagazzinata, la dose giornaliera deve essere assunta attraverso unadietasana ed equilibrata.
+
+La Società Italiana di Nutrizione (SINU) raccomanda la seguente quantità giornaliera di vitamina C che aumenta con l’età, in corso digravidanzae allattamento e varia in base al sesso:
+
+1-3 anni: 35 milligrammi (mg)4-6 anni: 45 mg7-10 anni: 60 mg11-14 anni: maschi 90 mg; femmine 80 mg15 e più: maschi 105 mg; femmine 85 mggravidanza: 100 mgallattamento: 130 mg
+
+1-3 anni: 35 milligrammi (mg)
+
+4-6 anni: 45 mg
+
+7-10 anni: 60 mg
+
+11-14 anni: maschi 90 mg; femmine 80 mg
+
+15 e più: maschi 105 mg; femmine 85 mg
+
+gravidanza: 100 mg
+
+allattamento: 130 mg
+
+Fonti alimentari
+
+La vitamina C si trova in un'ampia varietà di frutta e verdura:
+
+peperoni rossi e verdikiwiarance e agrumi(leggi laBufala)fragolepomodoriribes nerobroccolicavolicavoletti di Bruxellesspinacipatate
+
+peperoni rossi e verdi
+
+kiwi
+
+arance e agrumi(leggi laBufala)
+
+fragole
+
+pomodori
+
+ribes nero
+
+broccoli
+
+cavoli
+
+cavoletti di Bruxelles
+
+spinaci
+
+patate
+
+Possono verificarsi lievi carenze nei neonati a cui viene somministratolattevaccino non integrato e nelle persone che seguono diete non equilibrate.
+
+La vitamina C è disponibile anche comeintegratoreda prendere per bocca (via orale), in genere sotto forma di capsule e compresse masticabili.
+
+La ricerca sugli effetti della vitamina C e sull’uso di integratori in condizioni specifiche non ha dato risultati evidenti:
+
+raffreddorecomune, l'assunzione di integratori orali di vitamina C non previene il raffreddore comune. Tuttavia, alcune prove dimostrano che il raffreddore può durare meno giorni e che i disturbi (sintomi) possono essere meno gravi nelle persone che consumano regolarmente adeguati livelli di vitamina C. Questi studi hanno evidenziato che un consumo maggiore o uguale a 0,2 grammi al giorno di vitamina C riduce la durata del raffreddore comune dell'8% negli adulti e del 14% nei bambini, e un consumo pari a 1-2 grammi del 18% nei bambini. L’importanza sul piano pratico di questi risultati non è chiara; per questo motivo, un livello di beneficio così basso non può giustificare un'integrazione continuativa a lungo terminedegenerazione maculare, l'assunzione di integratori orali di vitamina C, in combinazione con altrevitamineeminerali, sembra prevenire il peggioramento della degenerazione maculare legata all'età (AMD)cataratta, alcuni studi suggeriscono che le persone con livelli più alti di vitamina C nella lorodietaabbiano un minor rischio di sviluppare catarattatumori, una dieta ricca di frutta e verdura sembra ridurre il rischio di molti tipi di tumori, come quello delseno, delcolone deipolmoni. Non ci sono sufficienti evidenze per dire che questo effetto protettivo sia correlato al contenuto di vitamina C negli alimenti. L'assunzione di integratori orali di vitamina C non sembra offrire lo stesso beneficio
+
+raffreddorecomune, l'assunzione di integratori orali di vitamina C non previene il raffreddore comune. Tuttavia, alcune prove dimostrano che il raffreddore può durare meno giorni e che i disturbi (sintomi) possono essere meno gravi nelle persone che consumano regolarmente adeguati livelli di vitamina C. Questi studi hanno evidenziato che un consumo maggiore o uguale a 0,2 grammi al giorno di vitamina C riduce la durata del raffreddore comune dell'8% negli adulti e del 14% nei bambini, e un consumo pari a 1-2 grammi del 18% nei bambini. L’importanza sul piano pratico di questi risultati non è chiara; per questo motivo, un livello di beneficio così basso non può giustificare un'integrazione continuativa a lungo termine
+
+degenerazione maculare, l'assunzione di integratori orali di vitamina C, in combinazione con altrevitamineeminerali, sembra prevenire il peggioramento della degenerazione maculare legata all'età (AMD)
+
+cataratta, alcuni studi suggeriscono che le persone con livelli più alti di vitamina C nella lorodietaabbiano un minor rischio di sviluppare cataratta
+
+tumori, una dieta ricca di frutta e verdura sembra ridurre il rischio di molti tipi di tumori, come quello delseno, delcolone deipolmoni. Non ci sono sufficienti evidenze per dire che questo effetto protettivo sia correlato al contenuto di vitamina C negli alimenti. L'assunzione di integratori orali di vitamina C non sembra offrire lo stesso beneficio
+
+**Carenza di vitamina C**
+
+Unadietapovera di vitamina C, negli adulti causa:
+
+stanchezzadebolezzairritabilitàperdita di pesodolorimuscolari e articolari
+
+stanchezza
+
+debolezza
+
+irritabilità
+
+perdita di peso
+
+dolorimuscolari e articolari
+
+Una grave carenza di vitamina C causa lo scorbuto, malattia diffusa in tempi passati, caratterizzata da apatia,anemiae inappetenza, sanguinamento delle gengive, caduta dei denti, dolori muscolari, emorragie sottocutanee e scarsa guarigione delle ferite.
+
+Le persone con malattie gastrointestinali e alcuni tipi ditumorepotrebbero andare incontro a carenza di vitamina C.
+
+La carenza di vitamina C si può prevenire consumando le giuste quantità di frutta e verdura fresche; la cottura può comportare, infatti, la perdita di buona parte della vitamina C presente negli alimenti.
+
+Ingravidanza, durante l’allattamento, durante unafebbreo unadiarrea, dopo interventi chirurgici e per i fumatori aumenta il bisogno di vitamina C.
+
+In presenza di un aumentato fabbisogno o di una carenza, il medico può ritenere opportuno l’utilizzo diintegratoridi vitamina C.
+
+**Eccesso di vitamina C**
+
+La vitamina C dovrebbe essere assunta seguendo unadietavaria e equilibrata.
+
+Gliintegratoridi vitamina C da prendere per bocca (via orale), se assunti nelle giuste dosi, sono considerati sicuri. Gli effetti indesiderati (effetti collaterali) si presentano, in genere, quando la dose consumata è elevata (leggi laBufala).
+
+Assumere grandi quantità (più di 1 grammo al giorno) di vitamina C attraverso gli integratori (leggi laBufala) può causare:
+
+diarreaflatulenzanauseavomitobruciore di stomacoinfiammazione dell'esofago,causata dareflusso gastrico(esofagite)crampi allo stomacosensazione di faticamal di testasonnolenzainsonniaarrossamento della pellecalcoli renali
+
+diarrea
+
+flatulenza
+
+nausea
+
+vomito
+
+bruciore di stomaco
+
+infiammazione dell'esofago,causata dareflusso gastrico(esofagite)
+
+crampi allo stomaco
+
+sensazione di fatica
+
+mal di testa
+
+sonnolenza
+
+insonnia
+
+arrossamento della pelle
+
+calcoli renali
+
+L'uso a lungo termine di integratori orali di vitamina C in quantità superiore ai 2 grammi al giorno aumenta il rischio di effetti indesiderati significativi.
+
+I disturbi (sintomi) dovrebbero scomparire interrompendo l'assunzione degli integratori di vitamina C.
+
+Interazioni con farmaci
+
+Prendere integratori di vitamina C ( supplementazione) potrebbe causare interazioni con:
+
+alluminio, aumentando l'assorbimento dell’alluminio contenuto neifarmaci, dannoso per le persone con problemi renalichemioterapia, riducendo l’effetto dei farmacicontraccettiviorali oterapia ormonale sostitutiva,aumentando i livelli di estrogeniinibitori delle proteasi, riducendo l'effetto di questifarmaci antiviralistatinee niacina, riducendo l'effetto della niacina (vitamina B3) che viene somministrata alle persone concolesteroloaltowarfarin, riducendo la risposta dell’organismo a questofarmaco anticoagulante
+
+alluminio, aumentando l'assorbimento dell’alluminio contenuto neifarmaci, dannoso per le persone con problemi renali
+
+chemioterapia, riducendo l’effetto dei farmaci
+
+contraccettiviorali oterapia ormonale sostitutiva,aumentando i livelli di estrogeni
+
+inibitori delle proteasi, riducendo l'effetto di questifarmaci antivirali
+
+statinee niacina, riducendo l'effetto della niacina (vitamina B3) che viene somministrata alle persone concolesteroloalto
+
+warfarin, riducendo la risposta dell’organismo a questofarmaco anticoagulante
+
+**Bibliografia**
+
+Mayo Clinic.Vitamin C(Inglese)
+
+NHS.Vitamin C. Vitamins and minerals(Inglese)
+
+Società Italiana di Nutrizione Umana (SINU).Vitamine - Assunzione raccomanadata per la popolazione (PRI) e assunzione adeguata (AI)
+
+**Link approfondimento**
+
+Hemilä H, Chalker E.Vitamin C for preventing and treating the common cold.Cochrane Database of Systematic Reviews.2013; Issue 1

@@ -1,0 +1,47 @@
+---
+lettera: P
+titolo: PET (esami di accertamento)
+fonte: https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/p/pet-esami-di-accertamento
+---
+
+**PET (esami di accertamento)**
+
+  
+
+  
+
+**Introduzione**
+
+La PET (dall'inglesePositron Emission Tomography) o Tomografia a emissione di positroni è un esame di medicina nucleare che permette di studiare tutto il corpo umano con un'elevata risoluzione e fornisce informazioni sul metabolismo degli organi interni e dei tessuti. Viene utilizzata nel settore oncologico ma anche in quello neurologico e cardiologico. La PET si distingue da altri esami di medicina nucleare, come la scintigrafia e la SPET (o tomoscintigrafia) per il tipo ditracciante radioattivo.
+
+La PET può utilizzare una sostanza normalmente presente nell'organismo (ad esempio, il glucosio) per legare la sostanza radioattiva somministrata (come il Fluoro-18 nel caso del glucosio). Una volta in circolo, il tracciante radioattivo emette particolari particelle, chiamate positroni, che vengono registrate da uno speciale scanner posto all'esterno del corpo (tomografo o sistema di rivelazione).
+
+La macchina per la PET è molto simile a una macchina per laTACperché è costituita da un anello entro cui si posiziona il lettino che ospita la persona. L'immagine restituita dal tomografo consente di valutare in che modo si distribuiscono questi traccianti all'interno di un organo o di un determinato tessuto biologico. Tutte le cellule che hanno una attività intensa consumano glucosio e, di conseguenza, in queste aree del corpo il glucosio si accumulerà maggiormente. Nelle aree in cui l'attività cellulare è molto elevata, il tracciante radioattivo emetterà un segnale più intenso e ben visibile. Ad esempio, in ambito oncologico, le cellule tumorali sono molto attive e hanno bisogno di maggiore energia rispetto a quelle sane. In questi casi il glucosio si accumulerà nelle zone conmetastasie il tracciante radioattivo le renderà visibili e ben identificate.
+
+Le applicazioni della PET in oncologia riguardano quasi tutti i tipi ditumoripoiché è possibile utilizzare i radiofarmaci più̀ idonei per ogni tipo: tumori cerebrali, del distretto testa-collo, delpolmone, dellamammella, del tratto gastroenterico, del sistema genito-urinario, diossa, muscoli e tessuti molli, linfomi e mielomi,melanoma, neoplasie endocrine eneuroendocrine. L'esame PET, per le sue caratteristiche, viene utilizzato per diagnosticare i tumori, per capire quale sia il punto migliore in cui fare una eventualebiopsia, per capire in che fase si trova il tumore ma anche per verificare l’efficacia delle cure in corso.
+
+Per sfruttare ancor meglio le caratteristiche dell'esame PET sono state sviluppate delle apparecchiature dette PET-TAC che possono registrare immagini legate al funzionamento di un organo o di un tessuto (immagine PET) in contemporanea alle informazioni sulla loro forma e composizione (immagini morfologiche) normalmente date dallaTAC. Questo tipo di esame permette di localizzare ancora meglio l'organo o il tessuto dove si è accumulato il radiofarmaco.
+
+**IL TEST**
+
+Durante un esame PET viene somministrata per via endovenosa una piccola quantità difarmaco radioattivoche non genera alcun rischio per i familiari conviventi. Infatti, immediatamente dopo il termine dell'esame si può tornare a casa, seguendo le indicazioni dei sanitari riguardo le precauzioni da prendere nei confronti di bambini e donne ingravidanza.
+
+Prima di iniziare l'esame viene chiesto di togliere gli oggetti metallici che potrebbero interferire con l'esame stesso e creare degli artefatti nelle immagini. Durante l'esame il paziente rimane disteso e il tomografo raccoglie i dati (il tomografo non emetteradiazioni).
+
+Tutti possono essere sottoposti a una PET, se necessario e su indicazione del medico curante, tranne le donne in gravidanza per evitare eventuali rischi per il feto. Se si allatta è necessario segnalarlo al medico per ricevere istruzioni sul periodo in cui l'allattamento deve essere interrotto al fine di evitare che la sostanza in circolo nell'organismo della donna passi, attraverso il latte, al bambino.
+
+Per sottoporsi alla PET è spesso necessario il digiuno nelle sei ore che precedono l'esame. Si possono bere liberamente acqua e bevande ma non devono essere zuccherate in modo da non modificare il risultato dell'indagine. Spesso, prima dell'esecuzione della PET, viene misurato il livello di glicemia nel sangue. È sempre importante attenersi scrupolosamente alle indicazioni che vengono fornite dal medico contestualmente alla prenotazione dell'esame.
+
+**Bibliografia**
+
+Associazione Italiana Medicina Nucleare (AIMN)
+
+World Health Organization (WHO). The global health observatory: explore a world oh health data.Medical devices: positron emission tomography (per million population), total density
+
+**Link approfondimento**
+
+International Atomic Energy Agency (IAEA).Radiation Protection in nuclear medicine
+
+Associazione Italiana di Fisica Medica e Sanitaria (AIFM).La Medicina Nucleare e il Fisico Medico
+
+Associazione Italiana per la Ricerca sul Cancro (AIRC).PET (Tomografia a emissione di positroni)

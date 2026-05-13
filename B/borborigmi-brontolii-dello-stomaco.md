@@ -1,0 +1,173 @@
+---
+lettera: B
+titolo: Borborigmi (Brontolii dello stomaco)
+fonte: https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/b/borborigmi-brontolii-dello-stomaco
+---
+
+**Borborigmi (Brontolii dello stomaco)**
+
+  
+
+  
+
+**Introduzione**
+
+Con il termine borborigmi (gorgoglii addominali, rumori intestinali o brontolii dello stomaco) si indicano quei rumori naturali provenienti dallo stomaco o dall'intestino dovuti alla normale attività digestiva. Possono verificarsi con frequenza variabile in qualsiasi momento della giornata sia a digiuno, sia a stomaco pieno. Alcune volte, il brontolio è avvertito esclusivamente dalla persona, in altri casi è talmente forte da poter essere udito anche da altri.
+
+I borborigmi possono essere classificati in:
+
+ipoattivi o ridotti, se indicano che l'attività intestinale è rallentataiperattivi, con gorgoglii intestinali più forti e rumorosi, dopo i pasti e durante la digestione, causati della pressione eccessiva esercitata dal gas intestinale, dadiarreao da disturbi gastrointestinali
+
+ipoattivi o ridotti, se indicano che l'attività intestinale è rallentata
+
+iperattivi, con gorgoglii intestinali più forti e rumorosi, dopo i pasti e durante la digestione, causati della pressione eccessiva esercitata dal gas intestinale, dadiarreao da disturbi gastrointestinali
+
+Durante il normale funzionamento dell'organismo (fisiologico), i borborigmi possono dipendere da:
+
+movimento dei gas presenti nello stomaco e nell'intestinoprogressive e automatiche contrazioni dei muscoli del tratto gastrointestinale,durante la digestione del cibo (peristalsi gastrointestinale)fame o digiuno, la cosiddetta “pancia che brontola“. In questi casi, l'aumentata intensità sonora dei borborigmi deriva dalla eccessiva secrezione dei succhi gastrici che preparano l'apparato digerente all'arrivo del cibo. Può anche accadere che i borborigmi siano stimolati dal cervello che, al semplice profumo del cibo o al suo solo pensiero, invia messaggi nervosi e ormonali allo stomaco che a sua volta stimola la produzione di succhi gastrici, responsabili dei borborigmi
+
+movimento dei gas presenti nello stomaco e nell'intestino
+
+progressive e automatiche contrazioni dei muscoli del tratto gastrointestinale,durante la digestione del cibo (peristalsi gastrointestinale)
+
+fame o digiuno, la cosiddetta “pancia che brontola“. In questi casi, l'aumentata intensità sonora dei borborigmi deriva dalla eccessiva secrezione dei succhi gastrici che preparano l'apparato digerente all'arrivo del cibo. Può anche accadere che i borborigmi siano stimolati dal cervello che, al semplice profumo del cibo o al suo solo pensiero, invia messaggi nervosi e ormonali allo stomaco che a sua volta stimola la produzione di succhi gastrici, responsabili dei borborigmi
+
+**Sintomi**
+
+Benché i borborigmi siano rumori del tutto naturali, la loro presenza continua e l'intensità del loro suono possono anche essere associati ad alcunemalattie infiammatoriedell'apparato gastrointestinale e non, oppure a condizioni e disturbi particolari, quali:
+
+gastroenteritegastroenterite viraleallergia alimentareceliachiamorbo diCrohncolite ulcerosadiverticoliteemorragie e ostruzioni intestinalisindrome del colon irritabileuso dilassativialterazioni deglielettroliti, in particolare livelli troppo bassi di potassio nel sangue (ipokaliemia)
+
+gastroenterite
+
+gastroenterite virale
+
+allergia alimentare
+
+celiachia
+
+morbo diCrohn
+
+colite ulcerosa
+
+diverticolite
+
+emorragie e ostruzioni intestinali
+
+sindrome del colon irritabile
+
+uso dilassativi
+
+alterazioni deglielettroliti, in particolare livelli troppo bassi di potassio nel sangue (ipokaliemia)
+
+I borborigmi potrebbero inoltre essere accompagnati da altri disturbi (sintomi), quali:
+
+diarreameteorismo, con sensazione di pancia gonfia, spasmi e distensione addominale, dolore e crampicattiva digestione(dispepsia)alito cattivo (alitosi)mal di testastanchezza
+
+diarrea
+
+meteorismo, con sensazione di pancia gonfia, spasmi e distensione addominale, dolore e crampi
+
+cattiva digestione(dispepsia)
+
+alito cattivo (alitosi)
+
+mal di testa
+
+stanchezza
+
+**Cause**
+
+Generalmente, i borborigmi intestinali sono un fenomeno del tutto naturale collegato al movimento del cibo e alla presenza di aria nell'intestino. Il movimento del cibo avviene grazie alla contrazione (peristalsi) della muscolatura presente nelle pareti del tratto gastrointestinale: queste contrazioni determinano il rimescolamento del cibo con l'aria (fenomeno che può produrre borborigmi) e la sua progressione.
+
+I borborigmi possono essere causati anche dallo stimolo della fame; in questi casi è il cervello ad inviare segnali allo stomaco e all'intestino stimolandoli a contrarsi e a provocare quella che viene comunemente chiamata “pancia che brontola”.
+
+Tuttavia, se i brontolii aumentano per intensità e frequenza, è bene non trascurarli, poiché potrebbero essere collegati alla presenza di problemi o situazioni particolari, quali:
+
+intolleranzeoallergie alimentari, ad esempio allattosio, al glutine o ai cibi piccantiingestione di alimenti che contribuiscono alla produzione di gas(con conseguente maggiore fermentazione da parte dellaflora batterica), comelegumi, alcune verdure (cavoli, broccoli, carciofi), alimenti ricchi di zuccheri o di difficile digestione (peperoni, cipolla, aglio)assunzione dilassativio di determinati farmaci, in genere quelli utilizzati per ildiabeteo l'obesità, come l'acarbosio, che interferiscono con l'assorbimento dei nutrientigravidanzastress, ansia o malessere passeggeropasti abbondantidigiuno prolungato
+
+intolleranzeoallergie alimentari, ad esempio allattosio, al glutine o ai cibi piccanti
+
+ingestione di alimenti che contribuiscono alla produzione di gas(con conseguente maggiore fermentazione da parte dellaflora batterica), comelegumi, alcune verdure (cavoli, broccoli, carciofi), alimenti ricchi di zuccheri o di difficile digestione (peperoni, cipolla, aglio)
+
+assunzione dilassativio di determinati farmaci, in genere quelli utilizzati per ildiabeteo l'obesità, come l'acarbosio, che interferiscono con l'assorbimento dei nutrienti
+
+gravidanza
+
+stress, ansia o malessere passeggero
+
+pasti abbondanti
+
+digiuno prolungato
+
+In tutti questi casi, si consiglia di consultare lo specialista (gastroenterologo) che, a seconda del disturbo, consiglierà la dieta più adatta da seguire o gli eventuali farmaci da assumere (antispastici per ridurre le contrazioni o stimolanti per favorire il transito rallentato e facilitare l'evacuazione) e, eventualmente, prescriverà indagini di approfondimento.
+
+**Diagnosi**
+
+In caso di gorgoglii addominali rumorosi, frequenti ed accompagnati da altri disturbi (sintomi), è bene rivolgersi al proprio medico per sottoporsi ad una eventuale visita specialistica.
+
+Tramite uno strumento, lo stetoscopio, il medico o lo specialista gastroenterologo sono in grado di ascoltare gli eventuali rumori intestinali anomali (auscultazione) che, in caso di ostruzioni intestinali, sono forti, acuti e spesso udibili anche con il solo orecchio.
+
+In alcuni casi, il medico potrebbe prescrivere degli esami di approfondimento che includono:
+
+esami del sangue, per escludereinfezioni,infiammazioni, danni agli organi o per rilevare disturbi alimentari come laceliachiaendoscopia, per acquisire immagini all'interno dello stomaco o del colon e dell'ultimo tratto dell'intestino tenue tramite una telecamera collegata ad un piccolo tubo flessibileecografiaaddominale,tomografia(TAC) orisonanza magnetica, per acquisire immagini dell'area addominale
+
+esami del sangue, per escludereinfezioni,infiammazioni, danni agli organi o per rilevare disturbi alimentari come laceliachia
+
+endoscopia, per acquisire immagini all'interno dello stomaco o del colon e dell'ultimo tratto dell'intestino tenue tramite una telecamera collegata ad un piccolo tubo flessibile
+
+ecografiaaddominale,tomografia(TAC) orisonanza magnetica, per acquisire immagini dell'area addominale
+
+**Terapia**
+
+In caso di borborigmi naturali, vale a dire legati alle normali attività digestive, un primo rimedio può consistere nel prestare maggiore attenzione a ciò che si mangia, preferendo pasti leggeri, facilmente digeribili, cibi poco complessi e che abbiano subito una cottura veloce.
+
+In caso di gorgoglii addominali piuttosto frequenti, è bene invece consultare lo specialista (gastroenterologo) che potrebbe eseguire alcuni esami di accertamento per individuare possibili condizioni diceliachiae/ointolleranze alimentario altri disturbi gastrointestinali.
+
+Seguire uno stile di vita sano ed equilibrato, mangiare regolarmente (consumando tre pasti al giorno, preferibilmente ad orari regolari), masticare bene e con calma, può comunque aiutare a prevenire il formarsi di aria (gas) nella pancia.
+
+**Prevenzione**
+
+Per prevenire i borborigmi può essere utile:
+
+seguire uno stile di vita sanopraticare una regolareattività fisicaprestare maggiore attenzione a quello che si mangiacercare di consumare pasti leggeri e facilmente digeribilipreferire alimenti poco complessi econ una cottura veloceconsumare tre pasti al giorno, possibilmente in orari regolarimasticare a lungo e con calma, per evitare di ingerire troppa aria aumentando la formazione di gas intestinale
+
+seguire uno stile di vita sano
+
+praticare una regolareattività fisica
+
+prestare maggiore attenzione a quello che si mangia
+
+cercare di consumare pasti leggeri e facilmente digeribili
+
+preferire alimenti poco complessi econ una cottura veloce
+
+consumare tre pasti al giorno, possibilmente in orari regolari
+
+masticare a lungo e con calma, per evitare di ingerire troppa aria aumentando la formazione di gas intestinale
+
+**Consigli utili**
+
+Seguire una sana alimentazione e praticare regolarmente un'attività fisicaaiutano sicuramente il funzionamento ottimale dell'apparato digestivo, evitando l'eccessiva comparsa di gas nello stomaco.
+
+Anche l'uso di rimedi naturali come l'assunzione di carbone vegetale può aiutare a ridurre il gas in eccesso (meteorismo) presente nel tratto intestinale, sgonfiando la pancia ed eliminando scorie e tossine.
+
+Per evitare la formazione di aria nello stomaco, si consiglia inoltre di bere almeno 1,5 litri di liquidi al giorno (cercando di evitare bibite gassate e/o zuccherate) per aiutare l'apparato digerente nelle sue funzioni e ridurre la fermentazione degli alimenti.
+
+Può anche essere utile, tra un pasto e l'altro, fare piccoli spuntini con cibi secchi da sgranocchiare (tipo cracker e biscotti) per sopperire ad un eventuale ed improvviso stimolo della fame.
+
+In caso di pranzi abbondanti, si consiglia di non riposare subito dopo, ma di fare una breve passeggiata (evitando sforzi fisici che richiederebbero un aumentato apporto di sangue ai muscoli sottraendolo all'apparato gastrointestinale) così da agevolare lo stomaco nei processi digestivi.
+
+**Bibliografia**
+
+Humanitas Research Hospital.Gorgoglio addominale
+
+**Link approfondimento**
+
+Sharma A, Moriarty K, Burnett H, Paraoan M, Thompson D.Intractable positional borborygmi – an unusual cause diagnosed by barium contrast study.BMJ Case Reports.2010
+
+Mayo Clinic.Intestinal gas(Inglese)
+
+Humanitas Research Hospital.Prima e dopo i pasti: ecco perché lo stomaco brontola
+
+Humanitas Mater Domini.Gorgoglio addominale
